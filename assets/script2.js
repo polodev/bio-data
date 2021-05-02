@@ -1,29 +1,25 @@
 var items = [
   {
-    key: `Name`,
-    value: `Shibu Chandra Debnath`,
+    key: `নাম`,
+    value: `শিবু চন্দ্র দেব নাথ (পলু)`,
   },
   {
     key: `Contacts`,
     value: `
-      mobile: 01670978989 <br>
-      email: shibu@bimabd.com 
+      মোবাইল: 01670978989 <br>
+      ইমেইল: shibu@bimabd.com 
     `,
   },
   {
-    key: `Date Of Birth`,
-    value: `Nov 10, 1990`,
+    key: `জন্ম তারিখ`,
+    value: `Nov ১০, ১৯৯০`,
   },
   {
-    key: `Height`,
-    value: `5 feet 8 inch (173 cm.)`,
+    key: `উচ্চতা`,
+    value: `৫ ফিট ৮ ইঞ্চি (১৭৩ সেমি.)`,
   },
   {
-    key: `Blood Group`,
-    value: `B+`,
-  },
-  {
-    key: `Education`,
+    key: `শিক্ষাগত যোগ্যতা`,
     value: `
      <strong>Post Graduation Diploma in ICT (concentration in PHP)</strong> <br>
      - Bangladesh Computer Council(FTFL) <br>
@@ -32,7 +28,7 @@ var items = [
     `,
   },
   {
-    key: `Work Exeperiences`,
+    key: `কাজের অভিজ্ঞতা`,
     value: `
 
     <p class="">
@@ -78,54 +74,54 @@ var items = [
     `,
   },
   {
-    key: `Father`,
+    key: `বাবা`,
     value: `
     
-    Horipad chandra debnath<br>
-    Profession - Business <br>
-    Contact - 01713608143 <br>
+    হরিপদ চন্দ্র দেবনাথ <br>
+    পেশা - ব্যাবসা <br>
+    মোবাইল - ০১৭১৩৬০৮১৪৩ <br>
     
     `,
   },
   {
-    key: `Mother`,
+    key: `মা`,
     value: `
     
-    Anima Rani Debnath<br>
-    Profession - Housewife <br>
-    Mobile - 01790943994 <br>
-    
-    `,
-  },
-  {
-    key: `Siblings`,
-    value: `
-    
-    3 elder sisters ( All married ) <br>
-    1 younger Brother work and live in Malaysia <br>
-    I am the 4th among siblings <br>
+    অনিমা রানী দেবনাথ <br>
+    পেশা - গৃহিণী <br>
+    মোবাইল - ০১৭৯০৯৪৩৯৯৪ <br>
     
     `,
   },
   {
-    key: `Dhaka Address `,
+    key: `ভাই বোন`,
     value: `
-    House 15, Road 11, Gudaraghat, Uttar Badda, Dhaka
+    
+    বড় ৩ বোন বিবাহিত <br>
+    ছোট ভাই মালয়েশিয়াতে থাকে <br>
+    আমার অবস্থান ভাই বোন দের মাঝে ৪র্থ <br>
+    
     `,
   },
   {
-    key: `Permanent Address`,
+    key: `ঢাকা ঠিকানা - `,
     value: `
-      Vil: Palashpur <br>
-      Pos + Upazila - Kachua <br>
-      Dis: Chandpur <br>
+      বাড়ি ১৫, রোড ১১, গুদারাঘাট, উত্তর বাড্ডা ঢাকা     
+    `,
+  },
+  {
+    key: `স্থায়ী ঠিকানা - `,
+    value: `
+      গ্রামঃ পলাশপুর <br>
+      পোস্ট + উপজেলা. - কচুয়া <br>
+      জেলা: চাঁদপুর <br>
       <br>   
 
-      And <br>
-      Vil: Fatepur <br>
-      Pos. - Tulpai <br>
-      Upazila. - Kachua <br>
-      Dis: Chandpur <br>   
+      এবং <br>
+      গ্রামঃ ফতেপুর <br>
+      পোস্টঃ - তুলপাই <br>
+      উপজেলা. - কচুয়া <br>
+      জেলা: চাঁদপুর <br>   
     `,
   },
 ];
