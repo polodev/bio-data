@@ -32,7 +32,7 @@ var items = [
     `,
   },
   {
-    key: `Work Exeperiences`,
+    key: `Work <br> Exeperiences`,
     value: `
 
     <p class="">
