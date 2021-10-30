@@ -6,8 +6,8 @@ var items = [
   {
     key: `Contacts`,
     value: `
-      mobile: 01670978989 <br>
-      email: shibu@bimabd.com 
+      Mobile: 01670978989 <br>
+      Email: shibu@bimafy.com 
     `,
   },
   {
