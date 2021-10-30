@@ -16,7 +16,7 @@ var items = [
   },
   {
     key: `Height`,
-    value: `5 feet 8 inch (173 cm.)`,
+    value: `5 feet 7 inch`,
   },
   {
     key: `Blood Group`,
@@ -40,7 +40,7 @@ var items = [
     </p>
 
     <strong> Jun 2019 - present </strong> <br>
-    <div class='company'>Flair Technology - <a href="https://bimabd.com">Bimabd.com</a> </div>
+    <div class='company'>Flair Technology - <a href="https://bimafy.com">Bimafy.com</a> </div>
     <div class='description'>
       <div class="role">Co-founder and CTO</div>
     </div>
