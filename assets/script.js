@@ -14,11 +14,11 @@ var items = [
   },
   {
     key: `Date Of Birth`,
-    value: `Nov 10, 1990`,
+    value: `Oct 31, 1990`,
   },
   {
     key: `Height`,
-    value: `5 feet 7 inch`,
+    value: `5 feet 7 inch (172 cm)`,
   },
   {
     key: `Blood Group`,
