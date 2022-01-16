@@ -96,7 +96,6 @@ var items = [
     
     Anima Rani Debnath<br>
     Profession - Housewife <br>
-    Mobile - 01790943994 <br>
     
     `,
   },
@@ -161,3 +160,5 @@ var App = {
 }
 App.init();
 }()); 
+
+    // Mobile - 01790943994 <br>
