@@ -6,8 +6,9 @@ var items = [
   {
     key: `Contacts`,
     value: `
-      Mobile: 01670978989 <br>
-      Email: shibu@bimafy.com <br>
+      Mobile: <a target="_blank" href="tel:01670978989">01670978989</a> <br>
+      Full CV: <a href="https://polodev.github.io/">https://polodev.github.io/</a> <br>
+      Email: <a target="_blank" href="mailto:shibu@bimafy.com">shibu@bimafy.com</a> <br> 
       FB: <a target="_blank" href="https://facebook.com/shibudebpolo">https://fb.com/shibudebpolo</a> <br>
       LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/shibudebpolo">https://linkedin.com/in/shibudebpolo</a> <br>
     `,
