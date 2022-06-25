@@ -30,7 +30,7 @@ var items = [
     value: `
      <strong>Post Graduation Diploma in ICT (concentration in PHP)</strong> <br>
      - Bangladesh Computer Council(FTFL) <br>
-     <strong> BBS in Marketing </strong> <br> 
+     <strong> Hon's in Marketing </strong> <br> 
      - Govt. Titumir College
     `,
   },
