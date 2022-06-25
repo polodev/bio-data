@@ -19,7 +19,7 @@ var items = [
   },
   {
     key: `Height`,
-    value: `5 feet 8 inch (173 cm)`,
+    value: `5 feet 8 inch (172 cm)`,
   },
   {
     key: `Blood Group`,
