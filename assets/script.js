@@ -15,7 +15,7 @@ var items = [
   },
   {
     key: `Date Of Birth`,
-    value: `Oct 31, 1990`,
+    value: `Oct 31, 1992`,
   },
   {
     key: `Height`,
