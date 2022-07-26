@@ -7,6 +7,7 @@ var items = [
     key: `Contacts`,
     value: `
       Mobile: <a target="_blank" href="tel:01670978989">01670978989</a> <br>
+      Bio: <a href="https://polodev.github.io/biodata">https://polodev.github.io/biodata</a> <br>
       Full CV: <a href="https://polodev.github.io/">https://polodev.github.io/</a> <br>
       Email: <a target="_blank" href="mailto:shibu@bimafy.com">shibu@bimafy.com</a> <br> 
       FB: <a target="_blank" href="https://facebook.com/shibudebpolo">https://fb.com/shibudebpolo</a> <br>
