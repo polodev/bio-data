@@ -62,14 +62,14 @@ var items = [
     <div class='company'>Great & Smart Technology Ltd</div>
     <div class='description'>
       <div class="role">Technical trainer of web development with php, laravel and mysql.</div>
-      <div>As a technical trainer I teach php, mysql, laravel.</div>
+      <div>As a technical trainer, I used teach php, mysql, & laravel.</div>
     </div>
     <hr>
       <strong> Sep 2017 — April 2018 </strong> <br>
       <div class='company'>Ernst & Young (LICT Project)</div>
       <div class='description'>
         <div class="role">Technical trainer of web development with php, laravel and mysql.</div>
-        <div>As a Web Developer trainer of Lict project, I teach php, mysql, laravel.</div>
+        <div>As a Web Developer trainer of Lict project, I used to teach php, mysql, & laravel.</div>
       </div>
     <hr>
       <strong>Feb 2016 — May 2017</strong><br>
